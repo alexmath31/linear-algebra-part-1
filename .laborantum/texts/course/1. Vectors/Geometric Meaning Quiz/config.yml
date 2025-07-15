@@ -1,8 +1,8 @@
 type: choose_any
-visible: false
+visible: true
 text: Select all the variants that are correct
 header: Scalar Product Geometric Meaning Quiz
-shuffle: true
+shuffle: false
 score: 1
 quiz:
   variants:
